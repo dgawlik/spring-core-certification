@@ -707,7 +707,7 @@ annotate it on array or list
 #### 5.7 What are some of the valid return types of a controller method?
 
 * @ResponseBody
-* HttpEntity<B>, ResponseEntity<B>
+* HttpEntity, ResponseEntity
 * HttpHeaders
 * String
 * View
